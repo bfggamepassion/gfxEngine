@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gfxEngine_documentation" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gfxEngine_documentation" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gfxEngine_documentation" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../gfxengine_shared/bfg_GfxEngine.h" />
+		<Unit filename="../gfxengine_shared/bfg_GfxEngine_dconly.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../gfxengine_shared/bfg_fileEngine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../gfxengine_shared/bfg_fileEngine.h" />
+		<Unit filename="../gfxengine_shared/bfg_rndEngine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../gfxengine_shared/bfg_rndEngine.h" />
+		<Unit filename="../gfxengine_shared/bfg_scrollMap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../gfxengine_shared/bfg_scrollMap.h" />
+		<Unit filename="../gfxengine_shared/bfg_sfxEngine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../gfxengine_shared/bfg_sfxEngine.h" />
+		<Unit filename="../gfxengine_shared/bfg_spriteEngine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../gfxengine_shared/bfg_spriteEngine.h" />
+		<Unit filename="../gfxengine_shared/bfg_tilemaps.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../gfxengine_shared/bfg_tilesmaps.h" />
+		<Unit filename="../gfxengine_shared/bfg_writeEngine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../gfxengine_shared/bfg_writeEngine.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

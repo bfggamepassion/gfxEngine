@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\gfxengine_shared\bfg_writeEngine.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="688" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_writeEngine.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="230" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_tilesmaps.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="115" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_tilemaps.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="172" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_spriteEngine.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="128" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_spriteEngine.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="221" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_sfxEngine.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="498" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_sfxEngine.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_scrollMap.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="159" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_scrollMap.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="170" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_rndEngine.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="262" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_rndEngine.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="108" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_fileEngine.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="522" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_fileEngine.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="78" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_GfxEngine_dconly.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="160" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="..\gfxengine_shared\bfg_GfxEngine.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5158" topLine="199" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

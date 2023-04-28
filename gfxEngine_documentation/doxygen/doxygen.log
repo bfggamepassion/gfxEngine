@@ -1,0 +1,92 @@
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:300: warning: The following parameters of blitImageBankTraRot(int ibno, int dx, int dy, float myrot, float zx, float zy, int center) are not documented:
+  parameter 'center'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:352: warning: argument 'noImage' of command @param is not found in the argument list of freeAllImage(void)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:344: warning: argument 'noImage' of command @param is not found in the argument list of freeAllImageTra(void)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:117: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:126: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:99: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:108: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:137: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:154: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:174: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:165: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:300: warning: The following parameters of blitImageBankTraRot(int ibno, int dx, int dy, float myrot, float zx, float zy, int center) are not documented:
+  parameter 'center'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:352: warning: argument 'noImage' of command @param is not found in the argument list of freeAllImage(void)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:344: warning: argument 'noImage' of command @param is not found in the argument list of freeAllImageTra(void)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:117: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:126: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:99: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:108: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:137: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:154: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:174: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_GfxEngine.h:165: warning: unexpected token in comment block while parsing the argument of command param
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_scrollMap.h:95: warning: argument 'xSourceValue' of command @param is not found in the argument list of sm_convertYWorldInYScreen(int s, int ySourceValue)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_scrollMap.h:95: warning: The following parameters of sm_convertYWorldInYScreen(int s, int ySourceValue) are not documented:
+  parameter 'ySourceValue'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_scrollMap.h:95: warning: argument 'xSourceValue' of command @param is not found in the argument list of sm_convertYWorldInYScreen(int s, int ySourceValue)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_scrollMap.h:95: warning: The following parameters of sm_convertYWorldInYScreen(int s, int ySourceValue) are not documented:
+  parameter 'ySourceValue'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:242: warning: argument 'nouvelPosX' of command @param is not found in the argument list of spr_changeSmoothSpriteTXRelative(int s, float StepX, int nbFrame)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:242: warning: The following parameters of spr_changeSmoothSpriteTXRelative(int s, float StepX, int nbFrame) are not documented:
+  parameter 'StepX'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:258: warning: argument 'nouvelPosY' of command @param is not found in the argument list of spr_changeSmoothSpriteTYRelative(int s, float StepY, int nbFrame)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:258: warning: The following parameters of spr_changeSmoothSpriteTYRelative(int s, float StepY, int nbFrame) are not documented:
+  parameter 'StepY'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:266: warning: argument 'f1..' of command @param is not found in the argument list of spr_setSpriteAnimation(int s, int a, int speed, int f0, int f1, int f2, int f3, int f4, int f5, int f6, int f7, int f8, int f9, int f10, int f11, int f12, int f13, int f14, int f15, int f16, int f17, int f18, int f19, int loop)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:266: warning: The following parameters of spr_setSpriteAnimation(int s, int a, int speed, int f0, int f1, int f2, int f3, int f4, int f5, int f6, int f7, int f8, int f9, int f10, int f11, int f12, int f13, int f14, int f15, int f16, int f17, int f18, int f19, int loop) are not documented:
+  parameter 'f0'
+  parameter 'f1'
+  parameter 'f2'
+  parameter 'f3'
+  parameter 'f4'
+  parameter 'f5'
+  parameter 'f6'
+  parameter 'f7'
+  parameter 'f8'
+  parameter 'f9'
+  parameter 'f10'
+  parameter 'f11'
+  parameter 'f12'
+  parameter 'f13'
+  parameter 'f14'
+  parameter 'f15'
+  parameter 'f16'
+  parameter 'f17'
+  parameter 'f18'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:286: warning: argument 's' of command @param is not found in the argument list of spr_setSpriteHitbox(int sprno, int hbx, int hby, int hbh, int hbl)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:286: warning: The following parameters of spr_setSpriteHitbox(int sprno, int hbx, int hby, int hbh, int hbl) are not documented:
+  parameter 'sprno'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:365: warning: argument 'n' of command @param is not found in the argument list of spr_updateAllSprites()
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:242: warning: argument 'nouvelPosX' of command @param is not found in the argument list of spr_changeSmoothSpriteTXRelative(int s, float StepX, int nbFrame)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:242: warning: The following parameters of spr_changeSmoothSpriteTXRelative(int s, float StepX, int nbFrame) are not documented:
+  parameter 'StepX'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:258: warning: argument 'nouvelPosY' of command @param is not found in the argument list of spr_changeSmoothSpriteTYRelative(int s, float StepY, int nbFrame)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:258: warning: The following parameters of spr_changeSmoothSpriteTYRelative(int s, float StepY, int nbFrame) are not documented:
+  parameter 'StepY'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:266: warning: argument 'f1..' of command @param is not found in the argument list of spr_setSpriteAnimation(int s, int a, int speed, int f0, int f1, int f2, int f3, int f4, int f5, int f6, int f7, int f8, int f9, int f10, int f11, int f12, int f13, int f14, int f15, int f16, int f17, int f18, int f19, int loop)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:266: warning: The following parameters of spr_setSpriteAnimation(int s, int a, int speed, int f0, int f1, int f2, int f3, int f4, int f5, int f6, int f7, int f8, int f9, int f10, int f11, int f12, int f13, int f14, int f15, int f16, int f17, int f18, int f19, int loop) are not documented:
+  parameter 'f0'
+  parameter 'f1'
+  parameter 'f2'
+  parameter 'f3'
+  parameter 'f4'
+  parameter 'f5'
+  parameter 'f6'
+  parameter 'f7'
+  parameter 'f8'
+  parameter 'f9'
+  parameter 'f10'
+  parameter 'f11'
+  parameter 'f12'
+  parameter 'f13'
+  parameter 'f14'
+  parameter 'f15'
+  parameter 'f16'
+  parameter 'f17'
+  parameter 'f18'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:286: warning: argument 's' of command @param is not found in the argument list of spr_setSpriteHitbox(int sprno, int hbx, int hby, int hbh, int hbl)
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:286: warning: The following parameters of spr_setSpriteHitbox(int sprno, int hbx, int hby, int hbh, int hbl) are not documented:
+  parameter 'sprno'
+J:/CODING/Sources/Dreamcast/gfxengine_shared/bfg_spriteEngine.h:365: warning: argument 'n' of command @param is not found in the argument list of spr_updateAllSprites()
